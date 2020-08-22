@@ -1,0 +1,1 @@
+<img src="/site_yw/images/site.gif" alt="">
