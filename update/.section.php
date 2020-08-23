@@ -1,0 +1,6 @@
+<?
+$sSectionName = "send";
+$arDirProperties = Array(
+
+);
+?>
